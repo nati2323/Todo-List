@@ -2,7 +2,8 @@
 
 
 
->  Javascript project from Module 2 at Microverse
+
+> Second Javascript project from Module 2 at Microverse
 
 ![screenshot 1](./src/img/ToDo1.png)
 ![screenshot 2](./src/img/ToDo2.png)
