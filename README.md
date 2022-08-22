@@ -5,11 +5,6 @@
 
 > Second Javascript project from Module 2 at Microverse
 
-![screenshot 1](./src/img/ToDo1.png)
-![screenshot 2](./src/img/ToDo2.png)
-![screenshot 3](./src/img/ToDo3.png)
-![screenshot 4](./src/img/ToDo4.png)
-![screenshot 5](./src/img/ToDo5.png)
 
 In this project, you will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
 
